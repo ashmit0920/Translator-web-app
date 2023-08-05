@@ -1,2 +1,2 @@
 # translator.github.io
-Translator website using Azure cognitive services.
+Translator website using python and Azure cognitive services.
